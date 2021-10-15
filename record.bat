@@ -1,8 +1,3 @@
-// By jamalmarlone@gmail.com
-// Created during the Covid 2021
-// For Windows 10 sofare running ffmpeg from https://ffmpeg.org/
-// To get your devices names run this   ffmpeg -list_devices true -f dshow -i dummy
-
 @echo off
 TITLE Record
 set ts=10
